@@ -5,9 +5,11 @@ colors: colors-a
 date: '2022-01-22'
 client: Awesome client
 description: >-
-  This CGI project aims to capture the timeless elegance and prestige of Laroza
-  Champagne showcasing its exquisite label design, the delicate effervescence of
-  the champagne within, and the luxurious texture of the glass.
+  This CGI project captures the essence of Leone Rose, showcasing its elegant
+  bottle, delicate rosé hue, and refreshing effervescence. Through
+  photorealistic rendering and dynamic simulations, we'll create captivating
+  visuals for print and digital media, highlighting the wine's sophisticated
+  appeal.
 featuredImage:
   type: ImageBlock
   url: /images/LEONEROSEFINALRENDER-ezgif.com-video-to-gif-converter.gif
