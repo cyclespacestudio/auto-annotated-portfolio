@@ -69,7 +69,7 @@ sections:
       - type: ImageBlock
         url: /images/logo4.svg
         altText: logo four
-        caption: Caption of the image
+        caption: ''
         elementId: ''
       - type: ImageBlock
         url: /images/logo5.svg
