@@ -76,11 +76,6 @@ sections:
         altText: logo five
         caption: ''
         elementId: ''
-      - type: ImageBlock
-        url: /images/logo4.svg
-        altText: altText of the image
-        caption: ''
-        elementId: ''
     colors: colors-f
     spacing: 16
     columns: 5
