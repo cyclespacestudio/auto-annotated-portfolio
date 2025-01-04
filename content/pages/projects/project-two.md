@@ -16,52 +16,7 @@ media:
   type: ImageBlock
   url: /images/LAROZAGIF.gif
   altText: Project image
-bottomSections:
-  - type: MediaGallerySection
-    title: Gallery
-    subtitle: This is the subtitle
-    images:
-      - type: ImageBlock
-        url: /images/LAROZA_1.jpg
-        altText: Image one
-        caption: Image one caption
-        elementId: ''
-      - type: ImageBlock
-        url: /images/gallery-2.jpg
-        altText: Image two
-        caption: Image two caption
-        elementId: ''
-      - type: ImageBlock
-        url: /images/gallery-3.jpg
-        altText: Image three
-        caption: Image three caption
-        elementId: ''
-      - type: ImageBlock
-        url: /images/gallery-4.jpg
-        altText: Image four
-        caption: Image four caption
-        elementId: ''
-    colors: colors-f
-    spacing: 16
-    columns: 4
-    aspectRatio: '4:3'
-    showCaption: false
-    enableHover: true
-    elementId: ''
-    styles:
-      self:
-        height: auto
-        width: full
-        padding:
-          - pt-12
-          - pb-12
-          - pl-4
-          - pr-4
-        justifyContent: center
-      title:
-        textAlign: center
-      subtitle:
-        textAlign: center
+bottomSections: []
 ---
 
 This CGI project will bring the vibrant and celebratory spirit of Laroza Champagne to life. We will create dynamic visuals that showcase the champagne's lively bubbles, golden hue, and the exciting atmosphere it embodies. The project will focus on creating a sense of energy and movement, using stylized lighting, abstract backgrounds, and fluid simulations to capture the essence of a joyous occasion. The final deliverables will include high-resolution stills and a short, energetic animation suitable for digital marketing campaigns and social media platforms.
