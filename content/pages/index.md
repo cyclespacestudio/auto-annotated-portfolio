@@ -49,7 +49,7 @@ sections:
     actions: []
   - type: MediaGallerySection
     title: BRANDS
-    subtitle: This is the subtitle
+    subtitle: Our partners
     images:
       - type: ImageBlock
         url: /images/logo1.svg
