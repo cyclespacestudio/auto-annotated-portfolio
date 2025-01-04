@@ -6,10 +6,9 @@ date: '2022-01-22'
 client: Awesome client
 description: >-
   This CGI project captures the essence of Leone Rose, showcasing its elegant
-  bottle, delicate rosé hue, and refreshing effervescence. Through
-  photorealistic rendering and dynamic simulations, we'll create captivating
-  visuals for print and digital media, highlighting the wine's sophisticated
-  appeal.
+  bottle, delicate rose hue, and refreshing effervescence. we'll create
+  captivating visuals for print and digital media, highlighting the wine's
+  sophisticated appeal.
 featuredImage:
   type: ImageBlock
   url: /images/LEONEROSEFINALRENDER-ezgif.com-video-to-gif-converter.gif
