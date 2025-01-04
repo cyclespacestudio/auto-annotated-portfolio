@@ -1,6 +1,6 @@
 {
     "type": "Config",
-    "favicon": "/images/Cyclespace New Logo.png",
+    "favicon": "/images/Cyclespace Favicon Logo.png",
     "header": {
         "type": "Header",
         "headerVariant": "variant-b",
