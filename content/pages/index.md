@@ -67,7 +67,7 @@ sections:
         caption: ''
         elementId: ''
       - type: ImageBlock
-        url: /images/AE2.png
+        url: /images/AFTER EFFECTS.png
         altText: logo four
         caption: ''
         elementId: ''
