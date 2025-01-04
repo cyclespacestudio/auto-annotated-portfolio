@@ -33,3 +33,10 @@ This CGI project focuses on showcasing the exquisite details of the Laroza Champ
 ![](/images/LAROZAFINALCUT-ezgif.com-video-to-gif-converter.gif)
 
 ![](/images/LAROZAFINALCUT-ezgif.com-video-to-gif-converter\(1\).gif)
+
+
+
+This CGI project focuses on showcasing the exquisite details of the Laroza Champagne bottle. Through high-resolution close-up renders, we will highlight the intricate label design, the delicate texture of the glass, the fine details of the foil and cork, and the mesmerizing movement of the bubbles within.
+
+
+
