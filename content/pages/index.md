@@ -72,7 +72,7 @@ sections:
         caption: ''
         elementId: ''
       - type: ImageBlock
-        url: /images/logo5.svg
+        url: /images/RUNWAY.png
         altText: logo five
         caption: ''
         elementId: ''
