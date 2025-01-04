@@ -17,9 +17,8 @@ sections:
       Warning: May cause extreme brand envy. We create ridiculously effective
       digital marketing and design solutions.
     subtitle: >-
-      This is my info—I’m sharing it all this with ya’ll to impress you with all
-      the hard work I’ve done in the past few years. Once you’re impressed, you
-      can continue to scroll down to see more details and credentials about me.
+      Ready to unleash your inner digital rockstar? We'll help you build a brand
+      that totally jams online.
     styles:
       self:
         height: auto
