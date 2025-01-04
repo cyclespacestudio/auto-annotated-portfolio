@@ -5,9 +5,9 @@ colors: colors-a
 date: '2022-01-22'
 client: Awesome client
 description: >-
-  It’s hard to imagine that I’ve that I wrote all this code by myself, probably
-  because I worked with an entire team :) but they definitely followed my lead
-  most of the time.
+  This CGI project aims to capture the timeless elegance and prestige of Laroza
+  Champagne showcasing its exquisite label design, the delicate effervescence of
+  the champagne within, and the luxurious texture of the glass.
 featuredImage:
   type: ImageBlock
   url: /images/LEONEROSEFINALRENDER-ezgif.com-video-to-gif-converter.gif
