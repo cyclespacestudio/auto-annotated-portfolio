@@ -48,7 +48,7 @@ sections:
     type: HeroSection
     actions: []
   - type: MediaGallerySection
-    title: BRANDS
+    title: SOFTWARE
     subtitle: Experts in these tools
     images:
       - type: ImageBlock
