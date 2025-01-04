@@ -57,7 +57,7 @@ sections:
         caption: ''
         elementId: ''
       - type: ImageBlock
-        url: /images/logo2.svg
+        url: /images/UNREAL.png
         altText: logo two
         caption: ''
         elementId: ''
