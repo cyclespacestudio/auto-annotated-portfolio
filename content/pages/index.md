@@ -59,7 +59,7 @@ sections:
       - type: ImageBlock
         url: /images/logo2.svg
         altText: logo two
-        caption: Caption of the image
+        caption: ''
         elementId: ''
       - type: ImageBlock
         url: /images/logo3.svg
