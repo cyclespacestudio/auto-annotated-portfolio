@@ -48,57 +48,32 @@ sections:
     type: HeroSection
     actions: []
   - type: MediaGallerySection
-    title: BRANDS
-    subtitle: Our partners
+    title: SOFTWARE
+    subtitle: We are Experts in These Tools
     images:
       - type: ImageBlock
-        url: /images/logo1.svg
+        url: /images/BLENDER.png
         altText: logo one
         caption: ''
         elementId: ''
       - type: ImageBlock
-        url: /images/logo2.svg
+        url: /images/UNREAL.png
         altText: logo two
         caption: ''
         elementId: ''
       - type: ImageBlock
-        url: /images/logo3.svg
+        url: /images/Midjourney.png
         altText: logo three
         caption: ''
         elementId: ''
       - type: ImageBlock
-        url: /images/logo4.svg
+        url: /images/AFTER EFFECTS 1.png
         altText: logo four
         caption: ''
         elementId: ''
       - type: ImageBlock
-        url: /images/logo5.svg
+        url: /images/RUNWAY.png
         altText: logo five
-        caption: ''
-        elementId: ''
-      - type: ImageBlock
-        url: /images/logo1.svg
-        altText: altText of the image
-        caption: ''
-        elementId: ''
-      - type: ImageBlock
-        url: /images/logo2.svg
-        altText: altText of the image
-        caption: ''
-        elementId: ''
-      - type: ImageBlock
-        url: /images/logo3.svg
-        altText: altText of the image
-        caption: ''
-        elementId: ''
-      - type: ImageBlock
-        url: /images/logo4.svg
-        altText: altText of the image
-        caption: ''
-        elementId: ''
-      - type: ImageBlock
-        url: /images/logo5.svg
-        altText: altText of the image
         caption: ''
         elementId: ''
     colors: colors-f
@@ -199,7 +174,7 @@ sections:
             fontWeight: 400
           title:
             fontWeight: 400
-    colors: colors-d
+    colors: colors-c
     variant: variant-c
     elementId: ''
     styles:
