@@ -17,8 +17,9 @@ sections:
       Warning: May cause extreme brand envy. We create ridiculously effective
       digital marketing and design solutions.
     subtitle: >-
-      Ready to unleash your inner digital rockstar? We'll help you build a brand
-      that totally jams online.
+      We blend creativity and strategy to develop digital solutions that are as
+      unique as your brand, helping you connect with your audience, achieve your
+      goals, and leave a lasting impression.
     styles:
       self:
         height: auto
