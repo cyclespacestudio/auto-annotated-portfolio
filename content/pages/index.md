@@ -67,7 +67,7 @@ sections:
         caption: ''
         elementId: ''
       - type: ImageBlock
-        url: /images/logo4.svg
+        url: /images/AE.png
         altText: logo four
         caption: ''
         elementId: ''
