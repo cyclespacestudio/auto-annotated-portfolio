@@ -6,9 +6,8 @@ date: '2025-01-03'
 client: Laroza (Cyclepsace -Concept)
 description: >-
   This CGI project aims to capture the timeless elegance and prestige of Laroza
-  Champagne. We will create photorealistic renderings of the Laroza bottle,
-  showcasing its exquisite label design, the delicate effervescence of the
-  champagne within, and the luxurious texture of the glass.
+  Champagne showcasing its exquisite label design, the delicate effervescence of
+  the champagne within, and the luxurious texture of the glass.
 featuredImage:
   type: ImageBlock
   url: /images/LAROZAGIF.gif
