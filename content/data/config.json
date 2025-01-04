@@ -50,7 +50,7 @@
             "url": "/images/weblogo.png",
             "altText": "cyclespace logo",
             "caption": "Caption of the image",
-            "elementId": ""
+            "elementId": "Logo"
         }
     },
     "footer": {
