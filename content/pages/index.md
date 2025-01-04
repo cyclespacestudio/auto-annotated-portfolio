@@ -77,11 +77,6 @@ sections:
         caption: ''
         elementId: ''
       - type: ImageBlock
-        url: /images/logo2.svg
-        altText: altText of the image
-        caption: ''
-        elementId: ''
-      - type: ImageBlock
         url: /images/logo3.svg
         altText: altText of the image
         caption: ''
