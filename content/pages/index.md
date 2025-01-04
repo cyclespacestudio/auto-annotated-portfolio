@@ -49,7 +49,7 @@ sections:
     actions: []
   - type: MediaGallerySection
     title: SOFTWARE
-    subtitle: Experts in these tools
+    subtitle: We are Experts in These Tools
     images:
       - type: ImageBlock
         url: /images/BLENDER.png
