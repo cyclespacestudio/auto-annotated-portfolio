@@ -94,7 +94,7 @@ sections:
       - type: ImageBlock
         url: /images/logo4.svg
         altText: altText of the image
-        caption: Caption of the image
+        caption: ''
         elementId: ''
     colors: colors-f
     spacing: 16
