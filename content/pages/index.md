@@ -62,7 +62,7 @@ sections:
         caption: ''
         elementId: ''
       - type: ImageBlock
-        url: /images/logo3.svg
+        url: /images/Midjourney.png
         altText: logo three
         caption: ''
         elementId: ''
