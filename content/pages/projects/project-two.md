@@ -3,7 +3,7 @@ type: ProjectLayout
 title: LAROZA - (BEVERAGE)
 colors: colors-a
 date: '2025-01-03'
-client: Laroza (Cyclepsace - Concept)
+client: Laroza - (Concept)
 description: >-
   This CGI project aims to capture the timeless elegance and prestige of Laroza
   Champagne showcasing its exquisite label design, the delicate effervescence of
