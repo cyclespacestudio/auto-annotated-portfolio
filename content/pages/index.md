@@ -52,7 +52,7 @@ sections:
     subtitle: Experts in these tools
     images:
       - type: ImageBlock
-        url: /images/logo1.svg
+        url: /images/BLENDER.png
         altText: logo one
         caption: ''
         elementId: ''
