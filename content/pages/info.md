@@ -63,7 +63,7 @@ sections:
     subtitle: 'I worked with these folks:'
     images:
       - type: ImageBlock
-        url: /images/Untitled-1.png
+        url: /images/BLENDER.png
         altText: Logo one
         caption: Logo one
       - type: ImageBlock
