@@ -82,7 +82,7 @@ sections:
     aspectRatio: '16:9'
     showCaption: true
     enableHover: false
-    elementId: ''
+    elementId: Brands
     styles:
       self:
         height: auto
