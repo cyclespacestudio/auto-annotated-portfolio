@@ -3,7 +3,7 @@ type: ProjectLayout
 title: LEONE ROSE - (FRAGRANCE)
 colors: colors-a
 date: '2022-01-22'
-client: Awesome client
+client: LEONE ROSE - (CONCEPT)
 description: >-
   This CGI project captures the essence of Leone Rose, showcasing its elegant
   design, and refreshing scent. we'll create captivating visuals for digital
