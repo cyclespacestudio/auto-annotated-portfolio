@@ -19,7 +19,7 @@ media:
 bottomSections: []
 backgroundImage:
   type: BackgroundImage
-  url: /images/bg.jpg
+  url: /images/bg3.jpg
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
