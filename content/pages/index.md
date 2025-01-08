@@ -201,6 +201,7 @@ sections:
         textAlign: left
       subtitle:
         textAlign: left
+    title: About us
   - type: FeaturedPostsSection
     elementId: ''
     colors: colors-f
