@@ -52,7 +52,7 @@ sections:
         label: Book A Call
         altText: ''
         url: '/https://cal.com/cyclespace-studio'
-        showIcon: false
+        showIcon: true
         icon: arrowRight
         iconPosition: right
         style: secondary
