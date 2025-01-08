@@ -55,7 +55,7 @@ sections:
         showIcon: true
         icon: arrowUpRight
         iconPosition: left
-        style: secondary
+        style: primary
         elementId: ''
   - type: MediaGallerySection
     title: SOFTWARE
