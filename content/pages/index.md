@@ -35,7 +35,7 @@ sections:
           - pl-4
           - pr-4
         alignItems: center
-        justifyContent: center
+        justifyContent: flex-end
         flexDirection: row-reverse
       title:
         textAlign: center
