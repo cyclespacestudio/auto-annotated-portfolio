@@ -12,7 +12,7 @@ backgroundImage:
 sections:
   - elementId: ''
     colors: colors-f
-    backgroundSize: full
+    backgroundSize: inset
     title: >-
       Warning: May cause extreme brand envy. We create ridiculously effective
       digital marketing and design solutions.
