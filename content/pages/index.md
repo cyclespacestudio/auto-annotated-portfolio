@@ -50,7 +50,7 @@ sections:
       - type: Button
         label: Book A Call
         altText: ''
-        url: /
+        url: '/https://cal.com/cyclespace-studio'
         showIcon: false
         icon: arrowRight
         iconPosition: right
