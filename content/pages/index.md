@@ -54,7 +54,7 @@ sections:
         url: '/https://cal.com/cyclespace-studio'
         showIcon: true
         icon: arrowRight
-        iconPosition: right
+        iconPosition: left
         style: secondary
         elementId: ''
   - type: MediaGallerySection
