@@ -53,7 +53,7 @@ sections:
         altText: ''
         url: '/https://cal.com/cyclespace-studio'
         showIcon: true
-        icon: arrowRight
+        icon: arrowUpRight
         iconPosition: left
         style: secondary
         elementId: ''
