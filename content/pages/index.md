@@ -156,7 +156,7 @@ sections:
         title: CEO at Parks
         image:
           type: ImageBlock
-          url: /images/bg3.jpg
+          url: /images/post-3.jpg
           altText: John Doe
           caption: Caption of the image
           elementId: ''
