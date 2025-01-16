@@ -48,7 +48,7 @@
         "logo": {
             "type": "ImageBlock",
             "url": "/images/weblogo.png",
-            "altText": "cyclespace logo",
+            "altText": "Cyclespace studio",
             "caption": "Caption of the image",
             "elementId": "Logo"
         }
