@@ -103,5 +103,12 @@
                 ]
             }
         }
-    }
+    },
+    "defaultMetaTags": [
+        {
+            "type": "MetaTag",
+            "property": "og:title",
+            "content": ""
+        }
+    ]
 }
