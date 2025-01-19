@@ -204,7 +204,8 @@ sections:
         actions:
           - type: Link
             label: Tiktok
-            url: 'https://github.com/'
+            url: >-
+              https://www.tiktok.com/@cyclespace.studio?is_from_webapp=1&sender_device=pc
         styles:
           self:
             textAlign: left
