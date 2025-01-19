@@ -150,25 +150,25 @@ sections:
     testimonials:
       - type: Testimonial
         quote: >+
-          ### **Unleash the Power of AI:** 
+          ### **Unleash the Power of AI:**
 
 
-          ##### Leverage the speed and efficiency of AI to streamline the entire
+          #### Leverage the speed and efficiency of AI to streamline the entire
           video production process, from concept to completion.
 
 
-          ### **3D Animation That Wows:** 
+          ### **3D Animation That Wows:**
 
 
-          ##### Captivate your audience with breathtaking 3D animations that
+          #### Captivate your audience with breathtaking 3D animations that
           bring your brand to life. We craft immersive worlds and engaging
           characters that leave a lasting impression.
 
 
-          ### **Hollywood-Level Creativity:** 
+          ### **Hollywood-Level Creativity:**
 
 
-          ##### Achieve the visual impact of high-budget Hollywood productions
+          #### Achieve the visual impact of high-budget Hollywood productions
           with our expert 3D animation techniques and innovative storytelling.
 
         name: Zwivhuya Mbulaheni
