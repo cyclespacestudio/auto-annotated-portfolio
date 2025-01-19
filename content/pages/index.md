@@ -187,6 +187,9 @@ sections:
       - type: Label
         label: User Research & Testing
         url: ''
+      - type: Label
+        label: Art Direction
+        url: ''
     colors: colors-f
     elementId: ''
     styles:
