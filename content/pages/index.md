@@ -181,6 +181,9 @@ sections:
       - type: Label
         label: Print Design & Pre-Press
         url: ''
+      - type: Label
+        label: Information Design
+        url: ''
     colors: colors-f
     elementId: ''
     styles:
