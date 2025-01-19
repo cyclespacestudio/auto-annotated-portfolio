@@ -147,7 +147,7 @@ sections:
         justifyContent: flex-end
     subtitle: Projects
   - type: LabelsSection
-    title: Skills
+    title: Services
     subtitle: The section subtitle
     items:
       - type: Label
