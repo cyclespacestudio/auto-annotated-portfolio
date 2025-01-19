@@ -176,7 +176,7 @@ sections:
         label: Packaging Design
         url: ''
       - type: Label
-        label: Web Development
+        label: Interactive Design
         url: ''
     colors: colors-f
     elementId: ''
