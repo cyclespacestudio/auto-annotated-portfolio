@@ -173,7 +173,7 @@ sections:
         label: UI/UX Design for Apps
         url: ''
       - type: Label
-        label: Swift
+        label: Packaging Design
         url: ''
     colors: colors-f
     elementId: ''
