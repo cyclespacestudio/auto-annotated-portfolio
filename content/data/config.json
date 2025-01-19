@@ -83,7 +83,7 @@
             {
                 "type": "Link",
                 "label": "LinkedIn",
-                "altText": "",
+                "altText": "Linked",
                 "url": "/",
                 "showIcon": false,
                 "icon": "arrowRight",
