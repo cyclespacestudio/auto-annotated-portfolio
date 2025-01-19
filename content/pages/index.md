@@ -201,7 +201,7 @@ sections:
         textAlign: left
       subtitle:
         textAlign: left
-    title: About us
+    title: Hollywood-Quality Ads. AI-Powered Prices
     subtitle: Our services
   - type: FeaturedPostsSection
     elementId: ''
