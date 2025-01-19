@@ -169,7 +169,7 @@ sections:
         title: CEO at Cyclespace Studio
         image:
           type: ImageBlock
-          url: /images/post-3.jpg
+          url: /images/about.jpg
           altText: John Doe
           caption: Caption of the image
           elementId: ''
