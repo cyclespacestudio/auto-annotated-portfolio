@@ -184,6 +184,9 @@ sections:
       - type: Label
         label: Information Design
         url: ''
+      - type: Label
+        label: User Research & Testing
+        url: ''
     colors: colors-f
     elementId: ''
     styles:
