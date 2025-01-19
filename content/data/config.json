@@ -79,17 +79,6 @@
                 "label": "Instagram",
                 "url": "https://www.instagram.com/cyclespace_studio/",
                 "altText": "Instagram"
-            },
-            {
-                "type": "Button",
-                "label": "Learn more",
-                "altText": "",
-                "url": "/",
-                "showIcon": false,
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "style": "primary",
-                "elementId": ""
             }
         ],
         "contacts": {
