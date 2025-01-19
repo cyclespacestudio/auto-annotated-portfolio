@@ -138,6 +138,65 @@ sections:
         justifyContent: center
         borderWidth: 1
         borderStyle: solid
+  - type: LabelsSection
+    title: Services
+    subtitle: Your Digital Partner for Success
+    items:
+      - type: Label
+        label: Motion Graphics & Animation
+        url: ''
+      - type: Label
+        label: Design Consulting
+        url: ''
+      - type: Label
+        label: Graphic Design
+        url: ''
+      - type: Label
+        label: Logo Design & Branding
+        url: ''
+      - type: Label
+        label: Web Design (UI/UX)
+        url: ''
+      - type: Label
+        label: Illustration
+        url: ''
+      - type: Label
+        label: UI/UX Design for Apps
+        url: ''
+      - type: Label
+        label: Art Direction
+        url: ''
+      - type: Label
+        label: Packaging Design
+        url: ''
+      - type: Label
+        label: Interactive Design
+        url: ''
+      - type: Label
+        label: Print Design & Pre-Press
+        url: ''
+      - type: Label
+        label: Information Design
+        url: ''
+      - type: Label
+        label: User Research & Testing
+        url: ''
+    colors: colors-f
+    elementId: ''
+    styles:
+      self:
+        height: auto
+        width: wide
+        padding:
+          - pt-36
+          - pb-36
+          - pl-4
+          - pr-4
+        justifyContent: center
+      title:
+        textAlign: center
+      subtitle:
+        textAlign: center
   - type: FeaturedItemsSection
     colors: colors-f
     items:
@@ -211,65 +270,6 @@ sections:
       subtitle:
         textAlign: left
     subtitle: 'You can find me here:'
-  - type: LabelsSection
-    title: Services
-    subtitle: Your Digital Partner for Success
-    items:
-      - type: Label
-        label: Motion Graphics & Animation
-        url: ''
-      - type: Label
-        label: Design Consulting
-        url: ''
-      - type: Label
-        label: Graphic Design
-        url: ''
-      - type: Label
-        label: Logo Design & Branding
-        url: ''
-      - type: Label
-        label: Web Design (UI/UX)
-        url: ''
-      - type: Label
-        label: Illustration
-        url: ''
-      - type: Label
-        label: UI/UX Design for Apps
-        url: ''
-      - type: Label
-        label: Art Direction
-        url: ''
-      - type: Label
-        label: Packaging Design
-        url: ''
-      - type: Label
-        label: Interactive Design
-        url: ''
-      - type: Label
-        label: Print Design & Pre-Press
-        url: ''
-      - type: Label
-        label: Information Design
-        url: ''
-      - type: Label
-        label: User Research & Testing
-        url: ''
-    colors: colors-f
-    elementId: ''
-    styles:
-      self:
-        height: auto
-        width: wide
-        padding:
-          - pt-36
-          - pb-36
-          - pl-4
-          - pr-4
-        justifyContent: center
-      title:
-        textAlign: center
-      subtitle:
-        textAlign: center
   - type: DividerSection
     styles:
       self:
