@@ -203,7 +203,7 @@ sections:
     styles:
       self:
         height: screen
-        width: wide
+        width: narrow
         padding:
           - pt-28
           - pb-28
