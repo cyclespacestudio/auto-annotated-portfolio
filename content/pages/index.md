@@ -186,9 +186,20 @@ sections:
           title:
             fontWeight: 400
       - type: Testimonial
-        quote: >
-          “Anytime I have a question, I know I can get in touch with Doris. She
-          always helps me adjust my site to look as perfect as I’d hoped.”
+        quote: >+
+          *   ### **Dramatically Reduced Costs:** *##### AI technology
+          significantly lowers production expenses, making world-class video
+          advertising accessible to businesses of all sizes.*### **Data-Driven
+          Success:** ########## Track key performance indicators (KPIs) to
+          measure the effectiveness of your campaigns and optimize for maximum
+          return on investment (ROI).*### **Your Vision, Reimagined:** *#####
+          Share your ideas with us, and our team will bring them to life with a
+          unique blend of AI-powered creativity and stunning 3D animation.
+
+
+
+
+
         name: Zwivhuya Mbulaheni
         title: Founder at Cyclespace studio
         image:
