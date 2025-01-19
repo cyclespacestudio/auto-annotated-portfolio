@@ -164,7 +164,7 @@ sections:
         label: Logo Design & Branding
         url: ''
       - type: Label
-        label: ''
+        label: Web Design (UI/UX)
         url: ''
       - type: Label
         label: Pancakes
