@@ -198,7 +198,7 @@ sections:
           title:
             fontWeight: 400
     colors: colors-f
-    variant: variant-a
+    variant: variant-c
     elementId: ''
     styles:
       self:
