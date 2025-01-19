@@ -145,7 +145,7 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-end
-    subtitle: ''
+    subtitle: The Future is Digital.
     title: Projects
   - type: LabelsSection
     title: Services
