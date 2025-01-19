@@ -462,5 +462,5 @@ sections:
         textAlign: left
       text:
         textAlign: left
-socialImage: /images/CYCLESPACE NEW LOGO WHITE COLOR WATERMARK.png
+socialImage: /images/LEONEROSEDINALRENDERnoaudio-ezgif.com-video-to-gif-converter(3).gif
 ---
