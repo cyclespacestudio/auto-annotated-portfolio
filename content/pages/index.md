@@ -12,7 +12,7 @@ backgroundImage:
 sections:
   - elementId: ''
     colors: colors-f
-    backgroundSize: full
+    backgroundSize: inset
     title: >-
       Warning: May cause extreme brand envy. We create ridiculously effective
       digital marketing and design solutions.
@@ -23,7 +23,7 @@ sections:
     styles:
       self:
         height: auto
-        width: wide
+        width: narrow
         margin:
           - mt-0
           - mb-0
@@ -36,7 +36,8 @@ sections:
           - pr-4
         alignItems: center
         justifyContent: center
-        flexDirection: row-reverse
+        flexDirection: col-reverse
+        borderRadius: none
       title:
         textAlign: center
       subtitle:
@@ -46,7 +47,16 @@ sections:
       actions:
         justifyContent: flex-start
     type: HeroSection
-    actions: []
+    actions:
+      - type: Button
+        label: Book A Call
+        altText: ''
+        url: 'https://cal.com/cyclespace-studio'
+        showIcon: true
+        icon: arrowUpRight
+        iconPosition: left
+        style: secondary
+        elementId: ''
   - type: MediaGallerySection
     title: SOFTWARE
     subtitle: We are Experts in These Tools
@@ -113,7 +123,6 @@ sections:
       - content/pages/projects/project-two.md
       - content/pages/projects/project-three.md
       - content/pages/projects/project-one.md
-      - content/pages/projects/project-four.md
     styles:
       self:
         height: auto
@@ -135,18 +144,97 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-end
-    subtitle: Projects
+    subtitle: The Future is Digital.
+    title: Projects
+  - type: LabelsSection
+    title: Services
+    subtitle: Your Digital Partner for Success
+    items:
+      - type: Label
+        label: Motion Graphics & Animation
+        url: ''
+      - type: Label
+        label: Design Consulting
+        url: ''
+      - type: Label
+        label: Graphic Design
+        url: ''
+      - type: Label
+        label: Logo Design & Branding
+        url: ''
+      - type: Label
+        label: Web Design (UI/UX)
+        url: ''
+      - type: Label
+        label: Illustration
+        url: ''
+      - type: Label
+        label: UI/UX Design for Apps
+        url: ''
+      - type: Label
+        label: Art Direction
+        url: ''
+      - type: Label
+        label: Packaging Design
+        url: ''
+      - type: Label
+        label: Interactive Design
+        url: ''
+      - type: Label
+        label: Print Design & Pre-Press
+        url: ''
+      - type: Label
+        label: Information Design
+        url: ''
+      - type: Label
+        label: User Research & Testing
+        url: ''
+    colors: colors-f
+    elementId: ''
+    styles:
+      self:
+        height: auto
+        width: wide
+        padding:
+          - pt-36
+          - pb-36
+          - pl-4
+          - pr-4
+        justifyContent: center
+      title:
+        textAlign: center
+      subtitle:
+        textAlign: center
   - type: TestimonialsSection
     testimonials:
       - type: Testimonial
-        quote: >
-          "Our website is the core of our sales strategy. Doris helped us
-          establish an easy-to-maintain Stackbit site with outstanding visuals!"
-        name: John Doe
-        title: CEO at Parks
+        quote: >+
+          ### **Unleash the Power of AI:**
+
+
+          ##### Leverage the speed and efficiency of AI to streamline the entire
+          video production process, from concept to completion.
+
+
+          ### **3D Animation That Wows:**
+
+
+          ##### Captivate your audience with breathtaking 3D animations that
+          bring your brand to life. We craft immersive worlds and engaging
+          characters that leave a lasting impression.
+
+
+          ### **Hollywood-Level Creativity:**
+
+
+          ##### Achieve the visual impact of high-budget Hollywood productions
+          with our expert 3D animation techniques and innovative storytelling.
+
+        name: Zwivhuya Mbulaheni
+        title: CEO at Cyclespace Studio
         image:
           type: ImageBlock
-          url: /images/bg3.jpg
+          url: /images/LAROZAFINALCUT-ezgif.com-video-to-gif-converter(1).gif
           altText: John Doe
           caption: Caption of the image
           elementId: ''
@@ -157,14 +245,40 @@ sections:
           title:
             fontWeight: 400
       - type: Testimonial
-        quote: >
-          “Anytime I have a question, I know I can get in touch with Doris. She
-          always helps me adjust my site to look as perfect as I’d hoped.”
-        name: Johnna Doe
-        title: Product Marketing Manager at Acme
+        quote: >+
+          ### **Dramatically Reduced Costs:**
+
+
+          ##### AI technology significantly lowers production expenses, making
+          world-class video advertising accessible to businesses of all sizes.
+
+
+
+
+          ### **Data-Driven Success:**
+
+
+          ##### Track key performance indicators (KPIs) to measure the
+          effectiveness of your campaigns and optimize for maximum return on
+          investment (ROI).
+
+
+
+
+          ### **Your Vision, Reimagined:**
+
+
+          ##### Share your ideas with us, and our team will bring them to life
+          with a unique blend of AI-powered creativity and stunning 3D
+          animation.
+
+
+
+        name: Zwivhuya Mbulaheni
+        title: Founder at Cyclespace studio
         image:
           type: ImageBlock
-          url: /images/bg.jpg
+          url: /images/ENIGMAFINALCUT-ezgif.com-video-to-gif-converter(3).gif
           altText: Johnna Doe
           caption: Caption of the image
           elementId: ''
@@ -174,7 +288,7 @@ sections:
             fontWeight: 400
           title:
             fontWeight: 400
-    colors: colors-c
+    colors: colors-f
     variant: variant-c
     elementId: ''
     styles:
@@ -191,6 +305,55 @@ sections:
         textAlign: left
       subtitle:
         textAlign: left
+    title: Hollywood-Quality Ads. AI-Powered Prices
+    subtitle: >-
+      Experience the future of advertising. We seamlessly blend cutting-edge AI
+      with stunning 3D animation to deliver captivating video campaigns that
+      drive results.
+  - type: CtaSection
+    title: Let's do this
+    text: >-
+      The Stackbit theme is flexible and scalable to every need. It can manage
+      any layout and any screen.
+    actions:
+      - type: Button
+        label: Book a Call
+        altText: ''
+        url: 'https://cal.com/cyclespace-studio'
+        showIcon: true
+        icon: arrowRight
+        iconPosition: right
+        style: secondary
+        elementId: ''
+      - type: Link
+        label: Learn more
+        altText: ''
+        url: /
+        showIcon: true
+        icon: arrowRight
+        iconPosition: right
+        elementId: ''
+    colors: colors-f
+    backgroundSize: full
+    elementId: ''
+    styles:
+      self:
+        height: auto
+        width: narrow
+        padding:
+          - pt-28
+          - pb-28
+          - pl-4
+          - pr-4
+        alignItems: center
+        justifyContent: center
+        flexDirection: row
+      title:
+        textAlign: left
+      text:
+        textAlign: left
+      actions:
+        justifyContent: flex-start
   - type: FeaturedPostsSection
     elementId: ''
     colors: colors-f
@@ -204,7 +367,6 @@ sections:
     posts:
       - content/pages/blog/post-six.md
       - content/pages/blog/post-four.md
-      - content/pages/blog/post-three.md
     showDate: true
     showExcerpt: true
     showReadMoreLink: true
@@ -235,8 +397,8 @@ sections:
         justifyContent: flex-end
   - type: ContactSection
     colors: colors-f
-    backgroundSize: full
-    title: "Got an interesting project? Tell me more...\U0001F4AC"
+    backgroundSize: inset
+    title: "Got an interesting project? Tell us more...\U0001F4AC"
     form:
       type: FormBlock
       elementId: sign-up-form
@@ -299,4 +461,5 @@ sections:
         textAlign: left
       text:
         textAlign: left
+socialImage: /images/LEONEROSEDINALRENDERnoaudio-ezgif.com-video-to-gif-converter(3).gif
 ---
