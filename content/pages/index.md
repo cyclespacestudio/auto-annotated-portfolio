@@ -187,19 +187,32 @@ sections:
             fontWeight: 400
       - type: Testimonial
         quote: >+
-          ### **Dramatically Reduced Costs:** ##### AI technology significantly
-          lowers production expenses, making world-class video advertising
-          accessible to businesses of all sizes.### 
+          ### **Dramatically Reduced Costs:**
 
 
-          **Data-Driven Success:** ##### Track key performance indicators (KPIs)
-          to measure the effectiveness of your campaigns and optimize for
-          maximum return on investment (ROI).### 
+          ##### AI technology significantly lowers production expenses, making
+          world-class video advertising accessible to businesses of all sizes.
 
 
-          **Your Vision, Reimagined:** ##### Share your ideas with us, and our
-          team will bring them to life with a unique blend of AI-powered
-          creativity and stunning 3D animation.
+
+
+          ### **Data-Driven Success:**
+
+
+          ##### Track key performance indicators (KPIs) to measure the
+          effectiveness of your campaigns and optimize for maximum return on
+          investment (ROI).
+
+
+
+
+          ### **Your Vision, Reimagined:**
+
+
+          ##### Share your ideas with us, and our team will bring them to life
+          with a unique blend of AI-powered creativity and stunning 3D
+          animation.
+
 
 
         name: Zwivhuya Mbulaheni
