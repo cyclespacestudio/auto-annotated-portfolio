@@ -279,7 +279,7 @@ sections:
         title: Founder at Cyclespace studio
         image:
           type: ImageBlock
-          url: /images/about.jpg
+          url: /images/ENIGMAFINALCUT-ezgif.com-video-to-gif-converter(3).gif
           altText: Johnna Doe
           caption: Caption of the image
           elementId: ''
