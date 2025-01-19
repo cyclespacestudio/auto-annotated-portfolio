@@ -4,7 +4,9 @@ title: 'Unleashing the Power of AI: Transforming Content Marketing'
 colors: colors-a
 date: '2024-06-03'
 author: content/data/team/doris-soto.json
-excerpt: More context that may or may not be helpful
+excerpt: >-
+  Content is king, they say. But in today's digital landscape, where content
+  volume is exploding, simply creating content isn't enough.
 featuredImage:
   type: ImageBlock
   url: /images/featured-Image6.jpg
