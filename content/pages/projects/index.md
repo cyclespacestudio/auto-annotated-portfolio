@@ -27,7 +27,7 @@ projectFeed:
         - pb-12
   actions:
     - type: Button
-      label: Learn more
+      label: Book a Call
       altText: ''
       url: '/https://cal.com/cyclespace-studio'
       showIcon: false
