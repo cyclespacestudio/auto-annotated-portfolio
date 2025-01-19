@@ -173,6 +173,9 @@ sections:
         label: UI/UX Design for Apps
         url: ''
       - type: Label
+        label: Art Direction
+        url: ''
+      - type: Label
         label: Packaging Design
         url: ''
       - type: Label
@@ -186,9 +189,6 @@ sections:
         url: ''
       - type: Label
         label: User Research & Testing
-        url: ''
-      - type: Label
-        label: Art Direction
         url: ''
     colors: colors-f
     elementId: ''
