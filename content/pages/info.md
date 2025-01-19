@@ -25,7 +25,7 @@ sections:
 
     media:
       type: ImageBlock
-      url: /images/LEONE ROSE SHOT.png
+      url: /images/LEONEROSEFINALRENDER-ezgif.com-video-to-gif-converter(1).gif
       altText: Hero image
     styles:
       self:
