@@ -318,7 +318,7 @@ sections:
       any layout and any screen.
     actions:
       - type: Button
-        label: Try it now
+        label: Book a Call
         altText: ''
         url: /
         showIcon: true
