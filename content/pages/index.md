@@ -149,9 +149,28 @@ sections:
   - type: TestimonialsSection
     testimonials:
       - type: Testimonial
-        quote: >
-          "Our website is the core of our sales strategy. Doris helped us
-          establish an easy-to-maintain Stackbit site with outstanding visuals!"
+        quote: >+
+          *   **Unleash the Power of AI:** Leverage the speed and efficiency of
+          AI to streamline the entire video production process, from concept to
+          completion.
+
+
+          <!---->
+
+
+          *   **3D Animation That Wows:** Captivate your audience with
+          breathtaking 3D animations that bring your brand to life. We craft
+          immersive worlds and engaging characters that leave a lasting
+          impression.
+
+
+          <!---->
+
+
+          *   **Hollywood-Level Creativity:** Achieve the visual impact of
+          high-budget Hollywood productions with our expert 3D animation
+          techniques and innovative storytelling.
+
         name: Zwivhuya Mbulaheni
         title: CEO at Cyclespace Studio
         image:
