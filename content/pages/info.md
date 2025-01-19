@@ -64,6 +64,56 @@ sections:
         justifyContent: center
         borderWidth: 1
         borderStyle: solid
+  - type: MediaGallerySection
+    title: SOFTWARE
+    subtitle: We are Experts in These Tools
+    images:
+      - type: ImageBlock
+        url: /images/BLENDER.png
+        altText: logo one
+        caption: ''
+        elementId: ''
+      - type: ImageBlock
+        url: /images/UNREAL.png
+        altText: logo two
+        caption: ''
+        elementId: ''
+      - type: ImageBlock
+        url: /images/Midjourney.png
+        altText: logo three
+        caption: ''
+        elementId: ''
+      - type: ImageBlock
+        url: /images/AFTER EFFECTS 1.png
+        altText: logo four
+        caption: ''
+        elementId: ''
+      - type: ImageBlock
+        url: /images/RUNWAY.png
+        altText: logo five
+        caption: ''
+        elementId: ''
+    colors: colors-f
+    spacing: 16
+    columns: 5
+    aspectRatio: '16:9'
+    showCaption: true
+    enableHover: false
+    elementId: Brands
+    styles:
+      self:
+        height: auto
+        width: wide
+        padding:
+          - pt-12
+          - pb-12
+          - pl-4
+          - pr-4
+        justifyContent: center
+      title:
+        textAlign: center
+      subtitle:
+        textAlign: center
   - type: DividerSection
     styles:
       self:
