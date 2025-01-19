@@ -13,14 +13,19 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    text: >-
-      ## Hey I’m a developer. I’ve been born and raised in the world, and that’s
-      also where I’m based. I’m currently a free agent, ex-this, ex-that,
-      ex-super big name. When I’m not coding, writing or creating, I eat
-      cereals. I have a dog, check her out [@mygod](https://www.stackbit.com/).
+    text: >+
+      ##### At Cyclespace Studio, we're more than just a design agency – we're
+      your strategic partners in growth. We believe that great design is the
+      engine that drives business forward. We work collaboratively with our
+      clients, taking the time to understand their goals, challenges, and target
+      audience. We then apply our expertise in branding, digital design, and
+      marketing to create solutions that not only look great but also deliver
+      measurable results. We're committed to helping our clients thrive in
+      today's competitive market.
+
     media:
       type: ImageBlock
-      url: /images/about.jpg
+      url: /images/LEONEROSEFINALRENDER-ezgif.com-video-to-gif-converter(1).gif
       altText: Hero image
     styles:
       self:
@@ -46,6 +51,7 @@ sections:
       actions:
         justifyContent: flex-start
     type: HeroSection
+    title: About Us
   - type: DividerSection
     styles:
       self:
@@ -59,52 +65,55 @@ sections:
         borderWidth: 1
         borderStyle: solid
   - type: MediaGallerySection
-    colors: colors-f
-    subtitle: 'I worked with these folks:'
+    title: SOFTWARE
+    subtitle: We are Experts in These Tools
     images:
       - type: ImageBlock
-        url: /images/logo1.svg
-        altText: Logo one
-        caption: Logo one
+        url: /images/BLENDER.png
+        altText: logo one
+        caption: ''
+        elementId: ''
       - type: ImageBlock
-        url: /images/logo2.svg
-        altText: Logo two
-        caption: Logo two
+        url: /images/UNREAL.png
+        altText: logo two
+        caption: ''
+        elementId: ''
       - type: ImageBlock
-        url: /images/logo3.svg
-        altText: Logo three
-        caption: Logo three
+        url: /images/Midjourney.png
+        altText: logo three
+        caption: ''
+        elementId: ''
       - type: ImageBlock
-        url: /images/logo4.svg
-        altText: Logo four
-        caption: Logo four
+        url: /images/AFTER EFFECTS 1.png
+        altText: logo four
+        caption: ''
+        elementId: ''
       - type: ImageBlock
-        url: /images/logo5.svg
-        altText: Logo five
-        caption: Logo five
-    spacing: 3
+        url: /images/RUNWAY.png
+        altText: logo five
+        caption: ''
+        elementId: ''
+    colors: colors-f
+    spacing: 16
     columns: 5
-    aspectRatio: auto
-    showCaption: false
+    aspectRatio: '16:9'
+    showCaption: true
     enableHover: false
+    elementId: Brands
     styles:
       self:
-        width: wide
         height: auto
+        width: wide
         padding:
-          - pt-8
-          - pb-8
+          - pt-12
+          - pb-12
           - pl-4
           - pr-4
         justifyContent: center
-        borderRadius: none
-        borderWidth: 0
-        borderStyle: none
-        borderColor: border-dark
       title:
-        textAlign: left
+        textAlign: center
       subtitle:
-        textAlign: left
+        textAlign: center
   - type: DividerSection
     styles:
       self:
@@ -117,14 +126,86 @@ sections:
         justifyContent: center
         borderWidth: 1
         borderStyle: solid
+  - type: LabelsSection
+    title: Services
+    subtitle: Your Digital Partner for Success
+    items:
+      - type: Label
+        label: Motion Graphics & Animation
+        url: ''
+      - type: Label
+        label: Design Consulting
+        url: ''
+      - type: Label
+        label: Graphic Design
+        url: ''
+      - type: Label
+        label: Logo Design & Branding
+        url: ''
+      - type: Label
+        label: Web Design (UI/UX)
+        url: ''
+      - type: Label
+        label: Illustration
+        url: ''
+      - type: Label
+        label: UI/UX Design for Apps
+        url: ''
+      - type: Label
+        label: Art Direction
+        url: ''
+      - type: Label
+        label: Packaging Design
+        url: ''
+      - type: Label
+        label: Interactive Design
+        url: ''
+      - type: Label
+        label: Print Design & Pre-Press
+        url: ''
+      - type: Label
+        label: Information Design
+        url: ''
+      - type: Label
+        label: User Research & Testing
+        url: ''
+    colors: colors-f
+    elementId: ''
+    styles:
+      self:
+        height: auto
+        width: wide
+        padding:
+          - pt-36
+          - pb-36
+          - pl-4
+          - pr-4
+        justifyContent: center
+      title:
+        textAlign: center
+      subtitle:
+        textAlign: center
+  - type: DividerSection
+    styles:
+      self:
+        width: wide
+        padding:
+          - pt-12
+          - pb-12
+          - pl-4
+          - pr-4
+        justifyContent: center
+        borderWidth: 1
+        borderStyle: solid
   - type: FeaturedItemsSection
     colors: colors-f
     items:
       - type: FeaturedItem
         actions:
           - type: Link
-            label: GitHub
-            url: 'https://github.com/'
+            label: Tiktok
+            url: >-
+              https://www.tiktok.com/@cyclespace.studio?is_from_webapp=1&sender_device=pc
         styles:
           self:
             textAlign: left
@@ -132,7 +213,7 @@ sections:
         actions:
           - type: Link
             label: Twitter
-            url: 'https://twitter.com/'
+            url: 'https://x.com/cyclespacemedia'
         styles:
           self:
             textAlign: left
@@ -140,23 +221,7 @@ sections:
         actions:
           - type: Link
             label: LinkedIn
-            url: 'https://www.linkedin.com/'
-        styles:
-          self:
-            textAlign: left
-      - type: FeaturedItem
-        actions:
-          - type: Link
-            label: CodePen
-            url: 'https://codepen.io/'
-        styles:
-          self:
-            textAlign: left
-      - type: FeaturedItem
-        actions:
-          - type: Link
-            label: Discord
-            url: 'https://discord.com/'
+            url: 'https://www.linkedin.com/cyclespace-studio'
         styles:
           self:
             textAlign: left
@@ -164,12 +229,12 @@ sections:
         actions:
           - type: Link
             label: Instagram
-            url: 'https://www.instagram.com/'
+            url: 'https://www.instagram.com/cyclespace_studio/'
         styles:
           self:
             textAlign: left
-    columns: 3
-    spacingX: 120
+    columns: 2
+    spacingX: 51
     spacingY: 0
     styles:
       self:
@@ -202,44 +267,12 @@ sections:
         justifyContent: center
         borderWidth: 1
         borderStyle: solid
-  - type: LabelsSection
-    colors: colors-f
-    subtitle: 'Skills:'
-    items:
-      - type: Label
-        label: 'WEB 1, 2, 3'
-      - type: Label
-        label: React
-      - type: Label
-        label: Microsoft Office
-      - type: Label
-        label: Next.js
-      - type: Label
-        label: Netlify
-      - type: Label
-        label: Pancakes
-      - type: Label
-        label: C++
-      - type: Label
-        label: Swift
-  - type: DividerSection
-    styles:
-      self:
-        width: wide
-        padding:
-          - pt-12
-          - pb-12
-          - pl-4
-          - pr-4
-        justifyContent: center
-        borderWidth: 1
-        borderStyle: solid
   - type: TextSection
     variant: variant-a
     subtitle: 'Contact:'
     colors: colors-f
     text: |
-      [thisismyemail.@myemail.me](mailto:thisismyemail.@myemail.me)
+      [info@cyclespacestudio.com](info@cyclespacestudio.com)
   - type: DividerSection
     styles:
       self:
@@ -247,99 +280,6 @@ sections:
         padding:
           - pt-8
           - pb-8
-          - pl-4
-          - pr-4
-        justifyContent: center
-        borderWidth: 1
-        borderStyle: solid
-  - type: FeaturedItemsSection
-    colors: colors-f
-    items:
-      - type: FeaturedItem
-        subtitle: 'Experience:'
-        text: |-
-          **Current**
-
-          * freelance @freelance.me
-
-          **2018-2021**
-
-          * fullstack at this startup
-
-          **2015**
-
-          * senior front-end at this place
-
-          **2013**
-
-          * intern developer at a big company
-
-          **2011**
-
-          * flipping burgers
-        styles:
-          self:
-            textAlign: left
-            padding:
-              - pt-0
-              - pl-0
-              - pb-0
-              - pr-0
-      - type: FeaturedItem
-        subtitle: 'Education:'
-        text: |-
-          **2015-2018**
-
-          * ba computer sciense at a semi fancy school
-
-          **2014**
-
-          * react certificate somewhere
-
-          **2011**
-
-          * my highschool
-        styles:
-          self:
-            textAlign: left
-            padding:
-              - pt-0
-              - pl-0
-              - pb-0
-              - pr-0
-    columns: 2
-    spacingX: 60
-    spacingY: 60
-    styles:
-      self:
-        height: auto
-        width: wide
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
-        padding:
-          - pt-8
-          - pb-8
-          - pl-4
-          - pr-4
-        justifyContent: center
-        borderRadius: none
-        borderWidth: 0
-        borderStyle: none
-        borderColor: border-dark
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-  - type: DividerSection
-    styles:
-      self:
-        width: wide
-        padding:
-          - pt-12
-          - pb-12
           - pl-4
           - pr-4
         justifyContent: center
