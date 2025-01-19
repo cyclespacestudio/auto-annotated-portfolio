@@ -318,7 +318,7 @@ sections:
         icon: arrowRight
         iconPosition: right
         elementId: ''
-    colors: colors-f
+    colors: colors-c
     backgroundSize: full
     elementId: ''
     styles:
