@@ -174,7 +174,7 @@ sections:
       - type: Label
         label: Swift
         url: ''
-    colors: colors-f
+    colors: colors-a
     elementId: ''
     styles:
       self:
