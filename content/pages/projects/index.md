@@ -25,6 +25,16 @@ projectFeed:
         - pl-4
         - pr-4
         - pb-12
+  actions:
+    - type: Button
+      label: Learn more
+      altText: ''
+      url: '/https://cal.com/cyclespace-studio'
+      showIcon: false
+      icon: arrowRight
+      iconPosition: right
+      style: primary
+      elementId: ''
 styles:
   title:
     textAlign: left
