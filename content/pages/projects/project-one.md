@@ -7,9 +7,7 @@ client: Awesome client
 description: >-
   Enigma Cologne is a fragrance for the modern gentleman, a man who embraces his
   individuality and defies convention. It's a fragrance that whispers of hidden
-  depths, of a life lived with passion and purpose. The animation tells the
-  story of this unique fragrance, capturing its essence and inviting you to
-  explore its captivating depths.
+  depths, of a life lived with passion and purpose. 
 featuredImage:
   type: ImageBlock
   url: /images/ENIGMAFINALCUT-ezgif.com-video-to-gif-converter.gif
