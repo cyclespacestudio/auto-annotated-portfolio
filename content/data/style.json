@@ -26,7 +26,7 @@
         "letterSpacing": "wide"
     },
     "h3": {
-        "size": "lg",
+        "size": "xl",
         "weight": "normal",
         "decoration": "none",
         "case": "uppercase",
