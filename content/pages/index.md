@@ -193,7 +193,7 @@ sections:
         title: Founder at Cyclespace studio
         image:
           type: ImageBlock
-          url: /images/post-2.jpg
+          url: /images/about.jpg
           altText: Johnna Doe
           caption: Caption of the image
           elementId: ''
