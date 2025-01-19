@@ -4,7 +4,10 @@ title: 'The Dynamic Duo: How AI is Revolutionizing Motion Design'
 colors: colors-a
 date: '2024-02-01'
 author: content/data/team/doris-soto.json
-excerpt: More context that may or may not be helpful
+excerpt: >-
+  Motion design, the art of bringing graphics to life through animation and
+  visual effects, has always been a powerful tool for communication and
+  engagement.
 featuredImage:
   type: ImageBlock
   url: /images/featured-Image4.jpg
