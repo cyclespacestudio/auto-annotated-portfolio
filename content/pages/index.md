@@ -146,6 +146,7 @@ sections:
       actions:
         justifyContent: flex-end
     subtitle: ''
+    title: Projects
   - type: LabelsSection
     title: Services
     subtitle: Your Digital Partner for Success
