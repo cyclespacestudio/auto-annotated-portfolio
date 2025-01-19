@@ -235,7 +235,7 @@ sections:
         title: CEO at Cyclespace Studio
         image:
           type: ImageBlock
-          url: /images/about.jpg
+          url: /images/LAROZAFINALCUT-ezgif.com-video-to-gif-converter(1).gif
           altText: John Doe
           caption: Caption of the image
           elementId: ''
