@@ -170,7 +170,7 @@ sections:
         label: Illustration
         url: ''
       - type: Label
-        label: C++
+        label: UI/UX Design for Apps
         url: ''
       - type: Label
         label: Swift
