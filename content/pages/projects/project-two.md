@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: LAROZA - (BEVERAGE)
 colors: colors-a
-date: '2025-01-03'
+date: '2025-01-17'
 client: Laroza - (Concept)
 description: >-
   This CGI project aims to capture the timeless elegance and prestige of Laroza
