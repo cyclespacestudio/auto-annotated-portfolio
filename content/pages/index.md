@@ -167,7 +167,7 @@ sections:
         label: Web Design (UI/UX)
         url: ''
       - type: Label
-        label: Pancakes
+        label: Illustration
         url: ''
       - type: Label
         label: C++
