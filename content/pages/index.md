@@ -155,7 +155,7 @@ sections:
         label: Motion Graphics & Animation
         url: ''
       - type: Label
-        label: React
+        label: Design Consulting
         url: ''
       - type: Label
         label: Microsoft Office
