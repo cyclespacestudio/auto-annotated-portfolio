@@ -148,7 +148,7 @@ sections:
     subtitle: Projects
   - type: LabelsSection
     title: Services
-    subtitle: ''
+    subtitle: Your Digital Partner for Success
     items:
       - type: Label
         label: 'WEB 1, 2, 3'
