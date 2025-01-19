@@ -254,7 +254,7 @@ sections:
   - type: FeaturedPostsSection
     elementId: ''
     colors: colors-f
-    variant: variant-d
+    variant: variant-b
     subtitle: Featured Posts
     showFeaturedImage: false
     actions:
