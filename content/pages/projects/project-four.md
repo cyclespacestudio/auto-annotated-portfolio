@@ -38,7 +38,7 @@ Prepare to be electrified. Our 3D animation for Fuse Energy Drink is more than j
 
 This is not just a visual spectacle; it's a kinetic journey that pulsates with energy. The animation tells the story of Fuse, a beverage that ignites the senses and fuels ambition.
 
-
+![](/images/LEONEROSEFINALRENDER-ezgif.com-video-to-gif-converter\(1\).gif)
 
 **The Essence of Electrification**
 
@@ -48,7 +48,7 @@ Immerse yourself in a world of vibrant colors and electrifying energy. Witness t
 
 Utilizing cutting-edge 3D technology, we've crafted a visual masterpiece that captures the dynamic energy of Fuse. The animation is a whirlwind of motion, a symphony of light and color that reflects the electrifying power of this exhilarating beverage.
 
-
+![](/images/LEONEROSEFINALRENDER-ezgif.com-video-to-gif-converter\(2\).gif)
 
 **Fuel Your Ambition**
 
@@ -58,9 +58,8 @@ Fuse Energy Drink is for those who dare to push their limits, who embrace challe
 
 Fuse Energy Drink is more than just a beverage; it's a fuel for the soul, a catalyst for action. The animation tells the story of this electrifying brand, capturing its essence and inviting you to unleash your inner power.
 
+![](/images/LEONEROSEFINALRENDER-ezgif.com-video-to-gif-converter\(3\).gif)
+
 **Experience the Fuse**
 
 Ready to ignite your senses? Schedule a consultation today and discover the electrifying power of Fuse Energy Drink.
-
-
-
