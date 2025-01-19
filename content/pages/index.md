@@ -343,7 +343,7 @@ sections:
   - type: FeaturedPostsSection
     elementId: ''
     colors: colors-f
-    variant: variant-b
+    variant: variant-d
     subtitle: Featured Posts
     showFeaturedImage: false
     actions:
