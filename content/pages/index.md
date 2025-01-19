@@ -462,4 +462,5 @@ sections:
         textAlign: left
       text:
         textAlign: left
+socialImage: /images/CYCLESPACE NEW LOGO WHITE COLOR WATERMARK.png
 ---
