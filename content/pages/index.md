@@ -155,16 +155,10 @@ sections:
           completion.
 
 
-          <!---->
-
-
           *   **3D Animation That Wows:** Captivate your audience with
           breathtaking 3D animations that bring your brand to life. We craft
           immersive worlds and engaging characters that leave a lasting
           impression.
-
-
-          <!---->
 
 
           *   **Hollywood-Level Creativity:** Achieve the visual impact of
