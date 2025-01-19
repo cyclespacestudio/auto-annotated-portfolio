@@ -158,7 +158,7 @@ sections:
         label: Design Consulting
         url: ''
       - type: Label
-        label: Microsoft Office
+        label: Graphic Design
         url: ''
       - type: Label
         label: Next.js
