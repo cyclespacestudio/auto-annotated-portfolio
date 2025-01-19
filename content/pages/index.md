@@ -202,7 +202,10 @@ sections:
       subtitle:
         textAlign: left
     title: Hollywood-Quality Ads. AI-Powered Prices
-    subtitle: Our services
+    subtitle: >-
+      Experience the future of advertising. We seamlessly blend cutting-edge AI
+      with stunning 3D animation to deliver captivating video campaigns that
+      drive results.
   - type: FeaturedPostsSection
     elementId: ''
     colors: colors-f
