@@ -1,0 +1,100 @@
+{
+    "model": "MediaGallerySection",
+    "srcType": "git",
+    "srcProjectId": "9a0364b9",
+    "presets": [
+        {
+            "label": "Software",
+            "locale": null,
+            "metadata": {
+                "categories": [
+                    "Services"
+                ],
+                "canDelete": true
+            },
+            "data": {
+                "title": "SOFTWARE",
+                "subtitle": "We are Experts in These Tools",
+                "images": [
+                    {
+                        "$$type": "ImageBlock",
+                        "url": {
+                            "$$ref": "stackbit_asset_id:static:public/images/BLENDER.png",
+                            "$$type": "__asset_model"
+                        },
+                        "altText": "logo one",
+                        "caption": "",
+                        "elementId": ""
+                    },
+                    {
+                        "$$type": "ImageBlock",
+                        "url": {
+                            "$$ref": "stackbit_asset_id:static:public/images/UNREAL.png",
+                            "$$type": "__asset_model"
+                        },
+                        "altText": "logo two",
+                        "caption": "",
+                        "elementId": ""
+                    },
+                    {
+                        "$$type": "ImageBlock",
+                        "url": {
+                            "$$ref": "stackbit_asset_id:static:public/images/Midjourney.png",
+                            "$$type": "__asset_model"
+                        },
+                        "altText": "logo three",
+                        "caption": "",
+                        "elementId": ""
+                    },
+                    {
+                        "$$type": "ImageBlock",
+                        "url": {
+                            "$$ref": "stackbit_asset_id:static:public/images/AFTER EFFECTS 1.png",
+                            "$$type": "__asset_model"
+                        },
+                        "altText": "logo four",
+                        "caption": "",
+                        "elementId": ""
+                    },
+                    {
+                        "$$type": "ImageBlock",
+                        "url": {
+                            "$$ref": "stackbit_asset_id:static:public/images/RUNWAY.png",
+                            "$$type": "__asset_model"
+                        },
+                        "altText": "logo five",
+                        "caption": "",
+                        "elementId": ""
+                    }
+                ],
+                "colors": "colors-f",
+                "spacing": 16,
+                "columns": 5,
+                "aspectRatio": "16:9",
+                "showCaption": true,
+                "enableHover": false,
+                "elementId": "Brands",
+                "styles": {
+                    "self": {
+                        "height": "auto",
+                        "width": "wide",
+                        "padding": [
+                            "pt-12",
+                            "pb-12",
+                            "pl-4",
+                            "pr-4"
+                        ],
+                        "justifyContent": "center"
+                    },
+                    "title": {
+                        "textAlign": "center"
+                    },
+                    "subtitle": {
+                        "textAlign": "center"
+                    }
+                }
+            },
+            "thumbnail": "images/media-gallery-section-software-f503.png"
+        }
+    ]
+}
