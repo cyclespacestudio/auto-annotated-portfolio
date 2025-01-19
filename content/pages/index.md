@@ -178,6 +178,9 @@ sections:
       - type: Label
         label: Interactive Design
         url: ''
+      - type: Label
+        label: Print Design & Pre-Press
+        url: ''
     colors: colors-f
     elementId: ''
     styles:
