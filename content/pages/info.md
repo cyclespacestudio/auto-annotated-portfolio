@@ -13,11 +13,19 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    text: >-
-      ## Hey I’m a developer. I’ve been born and raised in the world, and that’s
-      also where I’m based. I’m currently a free agent, ex-this, ex-that,
-      ex-super big name. When I’m not coding, writing or creating, I eat
-      cereals. I have a dog, check her out [@mygod](https://www.stackbit.com/).
+    text: >+
+
+      At Cyclespace Studio, we're more than just a design agency – we're your
+      strategic partners in growth. We believe that great design is the engine
+      that drives business forward. We work collaboratively with our clients,
+      taking the time to understand their goals, challenges, and target
+      audience. We then apply our expertise in branding, digital design, and
+      marketing to create solutions that not only look great but also deliver
+      measurable results. We're committed to helping our clients thrive in
+      today's competitive market.
+
+      ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
     media:
       type: ImageBlock
       url: /images/about.jpg
