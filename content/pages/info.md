@@ -287,7 +287,7 @@ sections:
     subtitle: 'Contact:'
     colors: colors-f
     text: |
-      [thisismyemail.@myemail.me](mailto:thisismyemail.@myemail.me)
+      [info@cyclespacestudio.com](info@cyclespacestudio.com)
   - type: DividerSection
     styles:
       self:
