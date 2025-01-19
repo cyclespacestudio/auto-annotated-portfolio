@@ -164,7 +164,7 @@ sections:
         label: Logo Design & Branding
         url: ''
       - type: Label
-        label: Netlify
+        label: ''
         url: ''
       - type: Label
         label: Pancakes
