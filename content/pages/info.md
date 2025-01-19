@@ -203,7 +203,7 @@ sections:
       - type: FeaturedItem
         actions:
           - type: Link
-            label: GitHub
+            label: Tiktok
             url: 'https://github.com/'
         styles:
           self:
