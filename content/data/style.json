@@ -26,7 +26,7 @@
         "letterSpacing": "wide"
     },
     "h3": {
-        "size": "7xl",
+        "size": "sm",
         "weight": "normal",
         "decoration": "none",
         "case": "uppercase",
