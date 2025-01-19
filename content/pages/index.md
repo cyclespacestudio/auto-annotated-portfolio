@@ -161,7 +161,7 @@ sections:
         label: Graphic Design
         url: ''
       - type: Label
-        label: Next.js
+        label: Logo Design & Branding
         url: ''
       - type: Label
         label: Netlify
