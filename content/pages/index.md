@@ -152,7 +152,7 @@ sections:
     subtitle: Your Digital Partner for Success
     items:
       - type: Label
-        label: 'WEB 1, 2, 3'
+        label: Motion Graphics & Animation
         url: ''
       - type: Label
         label: React
